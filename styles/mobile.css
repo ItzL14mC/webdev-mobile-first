@@ -109,3 +109,13 @@ nav{
   transition: height 0.5s;
   overflow: auto;
 } 
+
+.videoContainer{
+  display: flex;
+  justify-content: center;
+}
+video{
+  width:100%;
+  height: auto;
+  max-width:560px;
+}
